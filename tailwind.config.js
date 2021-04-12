@@ -25,10 +25,7 @@ module.exports = {
     },
   },
   variants: {
-    extend: {
-      // opacity: ['disabled'],
-      // cursor: ['disabled'],
-    },
+    extend: {},
   },
   plugins: [
     // Docs https://github.com/tailwindlabs/tailwindcss-forms
