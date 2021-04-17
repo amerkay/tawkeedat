@@ -5,8 +5,8 @@
       class="max-w-2xl px-4 py-16 mx-auto text-center sm:py-20 sm:px-6 lg:px-8"
     >
       <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
-        <span class="block">Boost your productivity.</span>
-        <span class="block">Start using Workflow today.</span>
+        <span class="block"> فعّل التفكير الإيجابي في اللاوعي </span>
+        <span class="block">واجذب حياة أفضل نفسيًا، معنويًا وماديًا</span>
       </h2>
       <p class="mt-4 text-lg leading-6 text-orange-50">
         اشترك الآن بتطبيق توكيدات ب ٣،٩٩ دولار شهريًا أو احصل على تخفيض رائع
@@ -16,7 +16,7 @@
         href="#"
         class="inline-flex items-center justify-center w-full px-5 py-3 mt-8 text-base font-medium text-orange-600 bg-white border border-transparent rounded-md hover:bg-orange-50 sm:w-auto"
       >
-        Sign up for free
+        اشترك ب ٢،٩٩ دولار شهرياً فقط
       </a>
     </div>
   </div>

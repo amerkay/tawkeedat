@@ -40,11 +40,12 @@
         <h2
           class="text-3xl font-extrabold leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
         >
-          A better way to send money
+          كل فكرة لديك ستكون إما استثمار أو تكلفة. – هارف ايكر
         </h2>
         <p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-500">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-          magnam voluptatum cupiditate veritatis in, accusamus quisquam.
+          حوّل أفكارك من تكاليف إلى استثمارات! تتطلب التوكيدات الإيجابية ممارسة
+          منتظمة وتكرار مستمر إن كنت ترغب في تغيير دائم وطويل المدى للنمط الفكري
+          الخاص بك إلى الأفضل سواء بالوعي أو اللاوعي.
         </p>
       </div>
 
@@ -58,10 +59,10 @@
             اشحن يومك بالإيجابية معنا
           </h3>
           <p class="mt-3 text-lg text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            minima sequi recusandae, porro maiores officia assumenda aliquam
-            laborum ab aliquid veritatis impedit odit adipisci optio iste
-            blanditiis facere. Totam, velit.
+            استولت الأفكار السلبية على عقول العديد في العام الماضي. ومن هنا وُجد
+            تطبيق توكيدات ليساعدك على ممارسة التوكيدات بشكل يومي مستمر ليحررك من
+            الأفكار السلبية المعرقلة لتطورك الذاتي ولتغيير نمط تفكيرك من السلبي
+            إلى الإيجابي.
           </p>
 
           <dl class="mt-10 space-y-10">
@@ -88,14 +89,11 @@
                   </svg>
                 </div>
                 <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                  مارس تمارين التوكيدات يوميًا مع إشعارات لتذكيرك بالأوقات التي
-                  تناسبك
+                  تجاوز كل الأفكار المعرقلة لتطورك
                 </p>
               </dt>
               <dd class="mt-2 mr-16 text-base text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                تعويد العقل الباطن على التفكير بإيجابية
               </dd>
             </div>
 
@@ -122,47 +120,11 @@
                   </svg>
                 </div>
                 <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                  اطلع على أكثر من ٤٥ نوع من أنواع التوكيدات
+                  فعّل قانون الجذب لجميع نواحي الحياة التي قد تخطر ببالك
                 </p>
               </dt>
               <dd class="mt-2 mr-16 text-base text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
-              </dd>
-            </div>
-
-            <div class="relative">
-              <dt>
-                <div
-                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-blue-500 rounded-md"
-                >
-                  <!-- Heroicon name: outline/lightning-bolt -->
-                  <svg
-                    class="w-6 h-6"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    aria-hidden="true"
-                  >
-                    <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M13 10V3L4 14h7v7l9-11h-7z"
-                    />
-                  </svg>
-                </div>
-                <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                  تمتع بالمئات من التوكيدات لجميع نواحي الحياة التي قد تخطر
-                  ببالك
-                </p>
-              </dt>
-              <dd class="mt-2 mr-16 text-base text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                استكشف المئات من التوكيدات التي ستفيدك في رحلتك الإيجابية
               </dd>
             </div>
           </dl>
@@ -252,12 +214,10 @@
             <h3
               class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl"
             >
-              Always in the loop
+              إشعارات لتذكيرات وتوكيدات يومية حسب اختيارك
             </h3>
             <p class="mt-3 text-lg text-gray-500">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-              ex obcaecati natus eligendi delectus, cum deleniti sunt in labore
-              nihil quod quibusdam expedita nemo.
+              استقبل إشعارات يومية على جهازك لتستمر برعاية ذاتك على الدوام
             </p>
 
             <dl class="mt-10 space-y-10">
@@ -284,13 +244,11 @@
                     </svg>
                   </div>
                   <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                    Mobile notifications
+                    أضف توكيداتك الخاصة
                   </p>
                 </dt>
                 <dd class="mt-2 mr-16 text-base text-gray-500">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Maiores impedit perferendis suscipit eaque, iste dolor
-                  cupiditate blanditiis ratione.
+                  يمكنك إضافة توكيدات خاصة بك كما ترغب
                 </dd>
               </div>
 
