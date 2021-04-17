@@ -20,7 +20,7 @@ module.exports = {
     extend: {
       // to change or add fonts, see also nuxt.config.js -> webfontloader
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        sans: ['Tajawal', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         blue: {
@@ -41,7 +41,7 @@ module.exports = {
           200: '#ffe1d6',
           300: '#ffcfbd',
           400: '#ffaa8b',
-          500: '#ff8659',
+          500: '#FF8659',
           600: '#e67950',
           700: '#bf6543',
           800: '#995035',

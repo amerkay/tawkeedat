@@ -6,10 +6,12 @@
       >
         <h1>
           <span
-            class="block mt-1 text-4xl font-extrabold tracking-tight sm:text-5xl xl:text-6xl"
+            class="block mt-1 text-4xl font-extrabold sm:text-5xl xl:text-6xl"
           >
-            <span class="block text-gray-900">حقق أحلامك </span>
-            <span class="block text-blue-600">بدءاً من اليوم!</span>
+            <span class="block leading-snug text-gray-900">حقق أحلامك </span>
+            <span class="block leading-normal text-orange-500"
+              >بدءاً من اليوم!</span
+            >
           </span>
         </h1>
         <p
@@ -35,7 +37,7 @@
             />
             <button
               type="submit"
-              class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-gray-800 border border-transparent rounded-md shadow-sm hover:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mt-0 sm:mr-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto"
+              class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mt-0 sm:mr-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto"
             >
               Get it for $3.99/m
             </button>

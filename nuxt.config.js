@@ -41,7 +41,15 @@ export default {
   modules: [
     // https://www.npmjs.com/package/@nuxtjs/svg
     '@nuxtjs/svg',
+    // Doc: https://github.com/Developmint/nuxt-webfontloader
+    'nuxt-webfontloader',
   ],
+
+  webfontloader: {
+    google: {
+      families: ['Tajawal:400,700,900&display=swap'], //Loads Tajawal font with weights 200-900
+    },
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
