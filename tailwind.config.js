@@ -8,7 +8,7 @@
  **
  ** Palette https://coolors.co/1b4965-5fa8d3-b0e0f1-ffffff-ffb703
  **
- ** Brand Color: selective-yellow-500, regent-st-blue-500, shakespeare-500, teal-blue-500
+ ** Brand Color: orange-500, regent-st-blue-500, shakespeare-500, navy-500
  */
 
 const defaultTheme = require('tailwindcss/defaultTheme')
@@ -23,7 +23,7 @@ module.exports = {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        'selective-yellow': {
+        orange: {
           50: '#fffbf2',
           100: '#fff8e6',
           200: '#ffedc0',
@@ -34,6 +34,18 @@ module.exports = {
           700: '#bf8902',
           800: '#996e02',
           900: '#7d5a01',
+        },
+        navy: {
+          50: '#f4f6f7',
+          100: '#e8edf0',
+          200: '#c6d2d9',
+          300: '#a4b6c1',
+          400: '#5f8093',
+          500: '#1b4965',
+          600: '#18425b',
+          700: '#14374c',
+          800: '#102c3d',
+          900: '#0d2431',
         },
         'regent-st-blue': {
           50: '#fbfdfe',
@@ -58,18 +70,6 @@ module.exports = {
           700: '#477e9e',
           800: '#39657f',
           900: '#2f5267',
-        },
-        'teal-blue': {
-          50: '#f4f6f7',
-          100: '#e8edf0',
-          200: '#c6d2d9',
-          300: '#a4b6c1',
-          400: '#5f8093',
-          500: '#1b4965',
-          600: '#18425b',
-          700: '#14374c',
-          800: '#102c3d',
-          900: '#0d2431',
         },
       },
     },
