@@ -5,7 +5,10 @@
     </div>
     <call-to-action class="relative z-30" />
     <section-features />
+    <section-feature-exercise />
+
     <section-testimonial />
+    <call-to-action />
   </div>
 </template>
 

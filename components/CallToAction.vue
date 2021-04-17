@@ -2,11 +2,15 @@
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="bg-orange-500">
     <div
-      class="max-w-2xl px-4 py-16 mx-auto text-center sm:py-20 sm:px-6 lg:px-8"
+      class="max-w-3xl px-4 py-16 mx-auto text-center sm:py-20 sm:px-6 lg:px-8"
     >
       <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
-        <span class="block"> فعّل التفكير الإيجابي في اللاوعي </span>
-        <span class="block">واجذب حياة أفضل نفسيًا، معنويًا وماديًا</span>
+        <span class="block leading-normal">
+          فعّل التفكير الإيجابي في اللاوعي
+        </span>
+        <span class="block leading-normal"
+          >واجذب حياة أفضل نفسيًا، معنويًا وماديًا</span
+        >
       </h2>
       <p class="mt-4 text-lg leading-6 text-orange-50">
         اشترك الآن بتطبيق توكيدات ب ٣،٩٩ دولار شهريًا أو احصل على تخفيض رائع

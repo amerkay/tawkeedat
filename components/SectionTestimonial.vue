@@ -1,14 +1,14 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
-  <section class="bg-blue-600">
+  <section class="bg-blue-100">
     <div class="mx-auto max-w-7xl md:grid md:grid-cols-2 md:px-6 lg:px-8">
       <div
-        class="px-4 py-12 sm:px-6 md:flex md:flex-col md:py-16 md:pr-0 md:pl-10 md:border-l md:border-blue-900 lg:pl-16"
+        class="px-4 py-12 sm:px-6 md:flex md:flex-col md:py-16 md:pr-0 md:pl-10 md:border-l md:border-white lg:pl-16"
       >
         <blockquote class="mt-6 md:flex-grow md:flex md:flex-col">
-          <div class="relative text-lg font-medium text-white md:flex-grow">
+          <div class="relative text-lg font-medium text-gray-800 md:flex-grow">
             <svg
-              class="absolute top-0 right-0 w-8 h-8 text-blue-500 transform -translate-x-3 -translate-y-2"
+              class="absolute top-0 right-0 w-8 h-8 text-white transform -translate-x-3 -translate-y-2"
               fill="currentColor"
               viewBox="0 0 32 32"
               aria-hidden="true"
@@ -34,8 +34,10 @@
                 />
               </div>
               <div class="mr-4">
-                <div class="text-base font-medium text-white">Judith Black</div>
-                <div class="text-base font-medium text-blue-200">
+                <div class="text-base font-medium text-gray-800">
+                  Judith Black
+                </div>
+                <div class="text-base font-medium text-blue-700">
                   CEO, Tuple
                 </div>
               </div>
@@ -44,12 +46,12 @@
         </blockquote>
       </div>
       <div
-        class="px-4 py-12 border-t-2 border-blue-900 sm:px-6 md:py-16 md:pl-0 md:pr-10 md:border-t-0 md:border-r lg:pr-16"
+        class="px-4 py-12 border-t-2 border-white sm:px-6 md:py-16 md:pl-0 md:pr-10 md:border-t-0 md:border-r lg:pr-16"
       >
         <blockquote class="mt-6 md:flex-grow md:flex md:flex-col">
-          <div class="relative text-lg font-medium text-white md:flex-grow">
+          <div class="relative text-lg font-medium text-gray-800 md:flex-grow">
             <svg
-              class="absolute top-0 right-0 w-8 h-8 text-blue-500 transform -translate-x-3 -translate-y-2"
+              class="absolute top-0 right-0 w-8 h-8 text-white transform -translate-x-3 -translate-y-2"
               fill="currentColor"
               viewBox="0 0 32 32"
             >
@@ -60,9 +62,10 @@
             <p class="relative">
               اشكررررررررررركم جدا جدا جزاكم الله خير اجمل تطبيق! والله من ثمن
               سنين ماعندي أطفال وفضلت اتمرن على توكيداتكم وسبحان الله اليوم حللت
-              وطلعت حامل بفضل الله كله طبعاً. اشكر الله دلني عليكم استخدمت
-              التوكيدات وغيرتلي مسار تفكيري السلبي بخصوص الانجاب ١٨٠ درجة! والان
-              حستخدم توكيدات الحمل المتوفرة ومن قلبي اتمنالكم التوفيق
+              وطلعت حامل بفضل الله كله طبعاً.<br />
+              اشكر الله دلني عليكم استخدمت التوكيدات وغيرتلي مسار تفكيري السلبي
+              بخصوص الانجاب ١٨٠ درجة! والان حستخدم توكيدات الحمل المتوفرة ومن
+              قلبي اتمنالكم التوفيق
             </p>
           </div>
           <footer class="mt-8">
@@ -77,10 +80,10 @@
                 />
               </div>
               <div class="mr-4">
-                <div class="text-base font-medium text-white">
+                <div class="text-base font-medium text-gray-800">
                   Joseph Rodriguez
                 </div>
-                <div class="text-base font-medium text-blue-200">
+                <div class="text-base font-medium text-blue-700">
                   CEO, Workcation
                 </div>
               </div>

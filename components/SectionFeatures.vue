@@ -214,10 +214,11 @@
             <h3
               class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl"
             >
-              إشعارات لتذكيرات وتوكيدات يومية حسب اختيارك
+              Features
             </h3>
             <p class="mt-3 text-lg text-gray-500">
-              استقبل إشعارات يومية على جهازك لتستمر برعاية ذاتك على الدوام
+              استقبل إشعارات يومية على جهازك. استقبل إشعارات يومية على جهازك.
+              استقبل إشعارات يومية على جهازك
             </p>
 
             <dl class="mt-10 space-y-10">
@@ -244,11 +245,11 @@
                     </svg>
                   </div>
                   <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                    أضف توكيداتك الخاصة
+                    إشعارات لتذكيرات وتوكيدات يومية حسب اختيارك
                   </p>
                 </dt>
                 <dd class="mt-2 mr-16 text-base text-gray-500">
-                  يمكنك إضافة توكيدات خاصة بك كما ترغب
+                  استقبل إشعارات يومية على جهازك لتستمر برعاية ذاتك على الدوام
                 </dd>
               </div>
 
@@ -275,13 +276,11 @@
                     </svg>
                   </div>
                   <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                    Reminder emails
+                    أضف توكيداتك الخاصة
                   </p>
                 </dt>
                 <dd class="mt-2 mr-16 text-base text-gray-500">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Maiores impedit perferendis suscipit eaque, iste dolor
-                  cupiditate blanditiis ratione.
+                  يمكنك إضافة توكيدات خاصة بك كما ترغب
                 </dd>
               </div>
             </dl>
