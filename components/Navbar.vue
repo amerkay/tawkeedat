@@ -7,11 +7,7 @@
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <a href="#">
             <span class="sr-only">Workflow</span>
-            <img
-              class="w-auto h-8 sm:h-10"
-              src="https://tailwindui.com/img/logos/workflow-mark-blue-600.svg"
-              alt=""
-            />
+            <logo />
           </a>
         </div>
         <div class="-my-2 -mr-2 md:hidden">
@@ -70,7 +66,7 @@
             </a> -->
           <a
             href="#"
-            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-blue-500 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
+            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
           >
             بدءاً من اليوم!
           </a>
