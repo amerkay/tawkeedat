@@ -47,7 +47,7 @@ export default {
 
   webfontloader: {
     google: {
-      families: ['Tajawal:400,700,900&display=swap'], //Loads Tajawal font with weights 200-900
+      families: ['Changa:400,700,900&display=swap'], //Loads Tajawal font with weights 200-900
     },
   },
 

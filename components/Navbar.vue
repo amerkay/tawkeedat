@@ -70,7 +70,7 @@
             </a> -->
           <a
             href="#"
-            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-bold text-white bg-blue-500 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
+            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-blue-500 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
           >
             بدءاً من اليوم!
           </a>

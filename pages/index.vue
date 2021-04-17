@@ -1,7 +1,7 @@
 <template>
   <div>
-    <section-hero class="bg-gray-50" />
-    <call-to-action />
+    <section-hero class="bg-gray-50 lg:-mb-32" />
+    <call-to-action class="relative z-30" />
     <section-features />
   </div>
 </template>
