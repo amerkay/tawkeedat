@@ -41,20 +41,21 @@
             href="#"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
-            Pricing
+            ما هي التوكيدات
           </a>
 
           <a
             href="#"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
-            Pricing
+            كيفية استخدام التوكيدات
           </a>
+
           <a
             href="#"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
-            Docs
+            من نحن
           </a>
         </nav>
         <div class="items-center justify-end hidden md:flex md:flex-1 lg:w-0">
@@ -68,7 +69,7 @@
             href="#"
             class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
           >
-            اشترك الآن وابدأ اليوم!
+            حمل التطبيق وابدأ اليوم!
           </a>
         </div>
       </div>
@@ -94,11 +95,7 @@
         <div class="px-5 pt-5 pb-6">
           <div class="flex items-center justify-between">
             <div>
-              <img
-                class="w-auto h-8"
-                src="https://tailwindui.com/img/logos/workflow-mark-blue-600.svg"
-                alt="Workflow"
-              />
+              <logo />
             </div>
             <div class="-mr-2">
               <button
@@ -133,7 +130,7 @@
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
-                  Analytics
+                  ما هي التوكيدات
                 </span>
               </a>
               <a
@@ -141,7 +138,7 @@
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
-                  Analytics
+                  كيفية استخدام التوكيدات
                 </span>
               </a>
               <a
@@ -149,7 +146,7 @@
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
-                  Analytics
+                  من نحن
                 </span>
               </a>
             </nav>
@@ -159,9 +156,9 @@
           <div>
             <a
               href="#"
-              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-blue-500 border border-transparent rounded-md shadow-sm hover:bg-blue-600"
+              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow-sm hover:bg-blue-600"
             >
-              بدءاً من اليوم!
+              حمل التطبيق وابدأ اليوم!
             </a>
           </div>
         </div>

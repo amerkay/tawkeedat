@@ -214,11 +214,10 @@
             <h3
               class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl"
             >
-              Features
+              املأ يومك بما هو إيجابي
             </h3>
             <p class="mt-3 text-lg text-gray-500">
-              استقبل إشعارات يومية على جهازك. استقبل إشعارات يومية على جهازك.
-              استقبل إشعارات يومية على جهازك
+              تأكد من أن عقلك الباطن يتعرض لطاقة إيجابية باستمرار
             </p>
 
             <dl class="mt-10 space-y-10">

@@ -23,7 +23,7 @@
             </p>
           </div>
           <footer class="mt-8">
-            <div class="flex items-start">
+            <div class="flex items-center">
               <div
                 class="inline-flex flex-shrink-0 border-2 border-white rounded-full"
               >
@@ -33,13 +33,8 @@
                   alt=""
                 />
               </div>
-              <div class="mr-4">
-                <div class="text-base font-medium text-gray-800">
-                  Judith Black
-                </div>
-                <div class="text-base font-medium text-blue-700">
-                  CEO, Tuple
-                </div>
+              <div class="mr-4 text-base font-medium text-gray-800">
+                أحمد سلطان
               </div>
             </div>
           </footer>
@@ -69,7 +64,7 @@
             </p>
           </div>
           <footer class="mt-8">
-            <div class="flex items-start">
+            <div class="flex items-center">
               <div
                 class="inline-flex flex-shrink-0 border-2 border-white rounded-full"
               >
@@ -80,12 +75,7 @@
                 />
               </div>
               <div class="mr-4">
-                <div class="text-base font-medium text-gray-800">
-                  Joseph Rodriguez
-                </div>
-                <div class="text-base font-medium text-blue-700">
-                  CEO, Workcation
-                </div>
+                <div class="text-base font-medium text-gray-800">رشا توفيق</div>
               </div>
             </div>
           </footer>

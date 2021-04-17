@@ -24,13 +24,9 @@
           class="mt-8 sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
         >
           <p class="text-base font-medium text-gray-900">
-            أضف بريدك الإلكتروني
+            أدخل بريدك الإلكتروني فعّل أهدافك الآن
           </p>
-          <form
-            action="#"
-            method="POST"
-            class="mt-3 sm:grid sm:grid-cols-2 sm:gap-3"
-          >
+          <form action="#" method="POST" class="mt-3 sm:flex">
             <FormulateInput
               type="email"
               name="email"
@@ -38,7 +34,8 @@
               label="Email"
               validation="required|email"
               placeholder="البريد الإلكتروني"
-              :input-class="['py-3']"
+              :input-class="['py-3.5']"
+              class="sm:w-1/2"
               :validation-messages="{
                 required: 'الرجاء إدخال بريد إلكتروني صحيح',
                 email: 'الرجاء إدخال بريد إلكتروني صحيح',
@@ -47,7 +44,7 @@
             <div>
               <button
                 type="submit"
-                class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mt-0 sm:items-center sm:w-auto"
+                class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mr-3 sm:mt-0 sm:items-center sm:w-auto"
               >
                 اشترك ب ٢،٩٩ دولار شهرياً فقط
               </button>

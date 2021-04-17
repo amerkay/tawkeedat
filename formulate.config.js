@@ -15,14 +15,14 @@ export default {
         case 'textarea':
           return 'block w-full border-gray-300 rounded-md shadow-sm sm:text-sm focus:ring-blue-500 focus:border-blue-500'
         case 'text':
-          return 'block w-full border-gray-300 rounded-md shadow-sm sm:text-sm focus:ring-blue-500 focus:border-blue-500'
+          return 'w-full border-gray-300 rounded-md shadow-sm sm:text-sm focus:ring-blue-500 focus:border-blue-500'
         default:
           return 'form-input w-full mb-1'
       }
     },
     label: 'font-medium text-sm sr-only',
     help: 'text-xs mb-1 text-gray-600',
-    error: 'text-red-700 text-xs mb-1',
+    error: 'text-red-700 text-xs mt-2',
     //form-errors styled from main.scss
   },
 }
