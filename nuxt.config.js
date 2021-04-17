@@ -35,6 +35,8 @@ export default {
     '@nuxtjs/tailwindcss',
     // Doc: https://github.com/ivodolenc/nuxt-lazysizes
     'nuxt-lazysizes',
+    // https://vueformulate.com/guide/installation/#add-to-vue
+    '@braid/vue-formulate/nuxt',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

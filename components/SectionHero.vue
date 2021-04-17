@@ -21,26 +21,37 @@
           السلبية. فكّر بإيجابية. حقّق أحلامك، توكيدات معك في كل خطوة، وكل يوم.
         </p>
         <div
-          class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-right lg:mx-0"
+          class="mt-8 sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
         >
           <p class="text-base font-medium text-gray-900">
             أضف بريدك الإلكتروني
           </p>
-          <form action="#" method="POST" class="mt-3 sm:flex">
-            <label for="email" class="sr-only">Email</label>
-            <input
-              type="text"
+          <form
+            action="#"
+            method="POST"
+            class="mt-3 sm:grid sm:grid-cols-2 sm:gap-3"
+          >
+            <FormulateInput
+              type="email"
               name="email"
               id="email"
-              class="block w-full py-3 text-base placeholder-gray-500 border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:flex-1"
+              label="Email"
+              validation="required|email"
               placeholder="البريد الإلكتروني"
+              :input-class="['py-3']"
+              :validation-messages="{
+                required: 'الرجاء إدخال بريد إلكتروني صحيح',
+                email: 'الرجاء إدخال بريد إلكتروني صحيح',
+              }"
             />
-            <button
-              type="submit"
-              class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mt-0 sm:mr-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto"
-            >
-              اشترك ب ٢،٩٩ دولار شهرياً فقط
-            </button>
+            <div>
+              <button
+                type="submit"
+                class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mt-0 sm:items-center sm:w-auto"
+              >
+                اشترك ب ٢،٩٩ دولار شهرياً فقط
+              </button>
+            </div>
           </form>
           <!-- <p class="mt-3 text-sm text-gray-500">
             We care about the protection of your data. Read our
