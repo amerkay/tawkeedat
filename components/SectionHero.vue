@@ -9,7 +9,7 @@
             class="block mt-1 text-4xl font-extrabold tracking-tight sm:text-5xl xl:text-6xl"
           >
             <span class="block text-gray-900">حقق أحلامك </span>
-            <span class="block text-indigo-600">بدءاً من اليوم!</span>
+            <span class="block text-blue-600">بدءاً من اليوم!</span>
           </span>
         </h1>
         <p
@@ -30,22 +30,22 @@
               type="text"
               name="email"
               id="email"
-              class="block w-full py-3 text-base placeholder-gray-500 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:flex-1"
+              class="block w-full py-3 text-base placeholder-gray-500 border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:flex-1"
               placeholder="Enter your email"
             />
             <button
               type="submit"
-              class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-gray-800 border border-transparent rounded-md shadow-sm hover:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 sm:mt-0 sm:mr-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto"
+              class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-gray-800 border border-transparent rounded-md shadow-sm hover:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mt-0 sm:mr-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto"
             >
-              Notify me
+              Get it for $3.99/m
             </button>
           </form>
-          <p class="mt-3 text-sm text-gray-500">
+          <!-- <p class="mt-3 text-sm text-gray-500">
             We care about the protection of your data. Read our
             <a href="#" class="font-medium text-gray-900 underline"
               >Privacy Policy</a
             >.
-          </p>
+          </p> -->
         </div>
       </div>
       <div

@@ -68,7 +68,7 @@
             <div class="relative">
               <dt>
                 <div
-                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-indigo-500 rounded-md"
+                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-orange-500 rounded-md"
                 >
                   <!-- Heroicon name: outline/globe-alt -->
                   <svg
@@ -101,7 +101,7 @@
             <div class="relative">
               <dt>
                 <div
-                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-indigo-500 rounded-md"
+                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-orange-500 rounded-md"
                 >
                   <!-- Heroicon name: outline/scale -->
                   <svg
@@ -134,7 +134,7 @@
             <div class="relative">
               <dt>
                 <div
-                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-indigo-500 rounded-md"
+                  class="absolute flex items-center justify-center w-12 h-12 text-white bg-orange-500 rounded-md"
                 >
                   <!-- Heroicon name: outline/lightning-bolt -->
                   <svg
@@ -262,7 +262,7 @@
               <div class="relative">
                 <dt>
                   <div
-                    class="absolute flex items-center justify-center w-12 h-12 text-white bg-indigo-500 rounded-md"
+                    class="absolute flex items-center justify-center w-12 h-12 text-white bg-orange-500 rounded-md"
                   >
                     <!-- Heroicon name: outline/annotation -->
                     <svg
@@ -295,7 +295,7 @@
               <div class="relative">
                 <dt>
                   <div
-                    class="absolute flex items-center justify-center w-12 h-12 text-white bg-indigo-500 rounded-md"
+                    class="absolute flex items-center justify-center w-12 h-12 text-white bg-orange-500 rounded-md"
                   >
                     <!-- Heroicon name: outline/mail -->
                     <svg

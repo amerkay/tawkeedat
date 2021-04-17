@@ -9,7 +9,7 @@
             <span class="sr-only">Workflow</span>
             <img
               class="w-auto h-8 sm:h-10"
-              src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+              src="https://tailwindui.com/img/logos/workflow-mark-blue-600.svg"
               alt=""
             />
           </a>
@@ -18,7 +18,7 @@
           <button
             @click="isMenuOpen = true"
             type="button"
-            class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
+            class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
             aria-expanded="false"
           >
             <span class="sr-only">Open menu</span>
@@ -70,7 +70,7 @@
             </a> -->
           <a
             href="#"
-            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-md shadow-sm whitespace-nowrap hover:bg-indigo-700"
+            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-bold text-white bg-orange-500 border border-transparent rounded-md shadow-sm whitespace-nowrap hover:bg-orange-600"
           >
             بدءاً من اليوم!
           </a>
@@ -100,7 +100,7 @@
             <div>
               <img
                 class="w-auto h-8"
-                src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                src="https://tailwindui.com/img/logos/workflow-mark-blue-600.svg"
                 alt="Workflow"
               />
             </div>
@@ -108,7 +108,7 @@
               <button
                 @click="isMenuOpen = false"
                 type="button"
-                class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
+                class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
               >
                 <span class="sr-only">Close menu</span>
                 <!-- Heroicon name: outline/x -->
@@ -163,7 +163,7 @@
           <div>
             <a
               href="#"
-              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-md shadow-sm hover:bg-indigo-700"
+              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-orange-600 border border-transparent rounded-md shadow-sm hover:bg-orange-700"
             >
               بدءاً من اليوم!
             </a>
