@@ -96,25 +96,35 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('@tailwindcss/aspect-ratio'),
   ],
-  purge: {
-    // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
-    // enabled: process.env.NODE_ENV === 'production',
-    whitelistPatterns: [/^formulate/],
-    // If you really want to remove all unused styles, use the mode: 'all'
-    // option and be very careful to provide the paths to all files that might
-    // reference any classes or HTML elements
-    // See https://tailwindcss.com/docs/optimizing-for-production#purge-css-options
-    // mode: 'all',
-    // preserveHtmlElements: false,
-    content: [
-      'components/**/*.vue',
-      'content/**/*.md',
-      'layouts/**/*.vue',
-      'pages/**/*.vue',
-      'plugins/**/*.js',
-      'utils/**/*.js',
-      'nuxt.config.js',
-      'formulate.config.js',
-    ],
-  },
+  purge: [
+    'components/**/*.vue',
+    'content/**/*.md',
+    'layouts/**/*.vue',
+    'pages/**/*.vue',
+    'plugins/**/*.js',
+    'utils/**/*.js',
+    'nuxt.config.js',
+    'formulate.config.js',
+  ],
+  // purge: {
+  //   // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
+  //   // enabled: process.env.NODE_ENV === 'production',
+  //   whitelistPatterns: [/^formulate/],
+  //   // If you really want to remove all unused styles, use the mode: 'all'
+  //   // option and be very careful to provide the paths to all files that might
+  //   // reference any classes or HTML elements
+  //   // See https://tailwindcss.com/docs/optimizing-for-production#purge-css-options
+  //   // mode: 'all',
+  //   // preserveHtmlElements: false,
+  //   content: [
+  //     'components/**/*.vue',
+  //     'content/**/*.md',
+  //     'layouts/**/*.vue',
+  //     'pages/**/*.vue',
+  //     'plugins/**/*.js',
+  //     'utils/**/*.js',
+  //     'nuxt.config.js',
+  //     'formulate.config.js',
+  //   ],
+  // },
 }
