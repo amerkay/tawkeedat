@@ -1,8 +1,11 @@
 <template>
   <div>
-    <section-hero class="bg-gray-50 lg:-mb-32" />
+    <div class="bg-gray-50 lg:-mb-32">
+      <section-hero />
+    </div>
     <call-to-action class="relative z-30" />
     <section-features />
+    <section-testimonial />
   </div>
 </template>
 

@@ -55,7 +55,7 @@
           <h3
             class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl"
           >
-            Transfer funds world-wide
+            اشحن يومك بالإيجابية معنا
           </h3>
           <p class="mt-3 text-lg text-gray-500">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
@@ -88,7 +88,8 @@
                   </svg>
                 </div>
                 <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                  Competitive exchange rates
+                  مارس تمارين التوكيدات يوميًا مع إشعارات لتذكيرك بالأوقات التي
+                  تناسبك
                 </p>
               </dt>
               <dd class="mt-2 mr-16 text-base text-gray-500">
@@ -121,7 +122,7 @@
                   </svg>
                 </div>
                 <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                  No hidden fees
+                  اطلع على أكثر من ٤٥ نوع من أنواع التوكيدات
                 </p>
               </dt>
               <dd class="mt-2 mr-16 text-base text-gray-500">
@@ -154,7 +155,8 @@
                   </svg>
                 </div>
                 <p class="mr-16 text-lg font-medium leading-6 text-gray-900">
-                  Transfers are instant
+                  تمتع بالمئات من التوكيدات لجميع نواحي الحياة التي قد تخطر
+                  ببالك
                 </p>
               </dt>
               <dd class="mt-2 mr-16 text-base text-gray-500">
