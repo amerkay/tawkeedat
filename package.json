@@ -25,6 +25,7 @@
     "@tailwindcss/typography": "^0.4.0",
     "eslint-config-prettier": "^8.2.0",
     "eslint-plugin-prettier": "^3.4.0",
+    "netlify-plugin-image-optim": "^0.4.0",
     "nuxt-lazysizes": "^1.2.1",
     "nuxt-webfontloader": "^1.1.0",
     "postcss": "^8.2.10",
