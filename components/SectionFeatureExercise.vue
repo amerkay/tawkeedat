@@ -1,6 +1,6 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
-  <div class="bg-gray-700">
+  <div id="how-to-use" class="bg-gray-700">
     <div
       class="max-w-4xl px-4 py-16 mx-auto sm:px-6 sm:pt-20 sm:pb-24 lg:max-w-7xl lg:pt-24 lg:px-8"
     >
@@ -26,10 +26,9 @@
             />
           </div>
           <div class="mt-6 text-center">
-            <h3 class="text-lg font-medium text-white">Saved Replies</h3>
+            <h3 class="text-lg font-medium text-white">اختر مدة تمرينك</h3>
             <p class="mt-2 text-base text-gray-200">
-              Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et
-              magna sit morbi lobortis.
+              اختر مدة تمرينك على التوكيدات
             </p>
           </div>
         </div>
@@ -44,10 +43,10 @@
             />
           </div>
           <div class="mt-6 text-center">
-            <h3 class="text-lg font-medium text-white">Email Commenting</h3>
+            <h3 class="text-lg font-medium text-white">٤٥ نوع توكيدات</h3>
             <p class="mt-2 text-base text-gray-200">
-              Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et
-              magna sit morbi lobortis.
+              اختر من بين أكثر من ٤٥ نوع توكيدات لتمارس تمرينك بدقة تامة لتحقيق
+              هدفك
             </p>
           </div>
         </div>
@@ -62,12 +61,9 @@
             />
           </div>
           <div class="mt-6 text-center">
-            <h3 class="text-lg font-medium text-white">
-              Connect with Customers
-            </h3>
+            <h3 class="text-lg font-medium text-white">كرر</h3>
             <p class="mt-2 text-base text-gray-200">
-              Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et
-              magna sit morbi lobortis.
+              كرر كل توكيد يظهر لك على الشاشة مع استشعاره تماماً
             </p>
           </div>
         </div>

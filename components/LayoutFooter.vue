@@ -1,6 +1,6 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
-  <footer class="bg-gray-800">
+  <footer id="footer" class="bg-gray-800">
     <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
       <div class="mx-auto mb-10 text-center text-gray-300 sm:max-w-2xl">
         <logo class="mb-5" />
@@ -17,25 +17,38 @@
         aria-label="Footer"
       >
         <div class="px-5 py-2">
-          <a href="#" class="text-base text-gray-200 hover:text-white">
+          <nuxt-link
+            to="/#what-is-it"
+            class="text-base text-gray-200 hover:text-white"
+          >
             ما هي التوكيدات
-          </a>
+          </nuxt-link>
         </div>
 
         <div class="px-5 py-2">
-          <a href="#" class="text-base text-gray-200 hover:text-white">
+          <nuxt-link
+            to="/#how-to-use"
+            class="text-base text-gray-200 hover:text-white"
+          >
             كيفية استخدام التوكيدات
-          </a>
+          </nuxt-link>
         </div>
 
         <div class="px-5 py-2">
-          <a href="#" class="text-base text-gray-200 hover:text-white">
+          <nuxt-link
+            to="/#hero-h1"
+            class="text-base text-gray-200 hover:text-white"
+          >
             حمل التطبيق وابدأ اليوم!
-          </a>
+          </nuxt-link>
         </div>
       </nav>
       <div class="flex justify-center mt-8 space-x-6 space-x-reverse">
-        <a href="#" class="text-gray-300 hover:text-white">
+        <a
+          href="https://www.instagram.com/arabicaffirmations/"
+          target="_blank"
+          class="text-gray-300 hover:text-white"
+        >
           <span class="sr-only">Instagram</span>
           <svg
             class="w-6 h-6"

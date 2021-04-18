@@ -37,26 +37,26 @@
           </button>
         </div>
         <nav class="hidden space-x-10 space-x-reverse md:flex">
-          <a
-            href="#"
+          <nuxt-link
+            to="/#what-is-it"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             ما هي التوكيدات
-          </a>
+          </nuxt-link>
 
-          <a
-            href="#"
+          <nuxt-link
+            to="/#how-to-use"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             كيفية استخدام التوكيدات
-          </a>
+          </nuxt-link>
 
-          <a
-            href="#"
+          <nuxt-link
+            to="/#footer"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             من نحن
-          </a>
+          </nuxt-link>
         </nav>
         <div class="items-center justify-end hidden md:flex md:flex-1 lg:w-0">
           <!-- <a
@@ -65,12 +65,12 @@
             >
               Sign in
             </a> -->
-          <a
-            href="#"
+          <nuxt-link
+            to="/#hero-h1"
             class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
           >
             حمل التطبيق وابدأ اليوم!
-          </a>
+          </nuxt-link>
         </div>
       </div>
     </div>
@@ -124,42 +124,42 @@
             </div>
           </div>
           <div class="mt-6">
-            <nav class="grid gap-y-8">
-              <a
-                href="#"
+            <nav class="grid gap-y-8" @click="isMenuOpen = false">
+              <nuxt-link
+                to="/#what-is-it"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
                   ما هي التوكيدات
                 </span>
-              </a>
-              <a
-                href="#"
+              </nuxt-link>
+              <nuxt-link
+                to="/#how-to-use"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
                   كيفية استخدام التوكيدات
                 </span>
-              </a>
-              <a
-                href="#"
+              </nuxt-link>
+              <nuxt-link
+                to="/#footer"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
                   من نحن
                 </span>
-              </a>
+              </nuxt-link>
             </nav>
           </div>
         </div>
         <div class="px-5 py-6 space-y-6">
-          <div>
-            <a
-              href="#"
+          <div @click="isMenuOpen = false">
+            <nuxt-link
+              to="/#hero-h1"
               class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow-sm hover:bg-blue-600"
             >
               حمل التطبيق وابدأ اليوم!
-            </a>
+            </nuxt-link>
           </div>
         </div>
       </div>

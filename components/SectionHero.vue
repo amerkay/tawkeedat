@@ -4,7 +4,7 @@
       <div
         class="sm:text-center md:max-w-2xl md:mx-auto lg:mx-0 lg:col-span-8 lg:text-right"
       >
-        <h1>
+        <h1 id="hero-h1">
           <span
             class="block mt-1 text-4xl font-extrabold sm:text-5xl xl:text-6xl"
           >
@@ -34,7 +34,7 @@
               label="Email"
               validation="required|email"
               placeholder="البريد الإلكتروني"
-              :input-class="['py-3.5']"
+              :input-class="['py-3']"
               class="sm:w-1/2"
               :validation-messages="{
                 required: 'الرجاء إدخال بريد إلكتروني صحيح',
