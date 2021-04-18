@@ -69,10 +69,10 @@
         class="relative mt-12 sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-4 lg:flex lg:items-center"
       >
         <div class="relative w-full lg:max-w-xs">
-          <img
+          <base-img
             class="object-contain w-full"
             src="/img/iphone-screen-home.png"
-            alt=""
+            alt="استخدم التوكيدات لتفعيل قانون الجذب لصالحك فورًا"
           />
         </div>
       </div>

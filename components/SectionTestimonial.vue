@@ -27,10 +27,10 @@
               <div
                 class="inline-flex flex-shrink-0 border-2 border-white rounded-full"
               >
-                <img
+                <base-img
                   class="w-12 h-12 rounded-full"
                   src="/img/testimonial-avatar-man.png"
-                  alt=""
+                  alt="أحمد سلطان"
                 />
               </div>
               <div class="mr-4 text-base font-medium text-gray-800">
@@ -68,10 +68,10 @@
               <div
                 class="inline-flex flex-shrink-0 border-2 border-white rounded-full"
               >
-                <img
+                <base-img
                   class="w-12 h-12 rounded-full"
                   src="/img/testimonial-avatar-woman.png"
-                  alt=""
+                  alt="رشا توفيق"
                 />
               </div>
               <div class="mr-4">

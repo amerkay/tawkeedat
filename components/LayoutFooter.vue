@@ -19,6 +19,7 @@
         <div class="px-5 py-2">
           <nuxt-link
             to="/#what-is-it"
+            v-scroll-to="'#what-is-it'"
             class="text-base text-gray-200 hover:text-white"
           >
             ما هي التوكيدات
@@ -28,6 +29,7 @@
         <div class="px-5 py-2">
           <nuxt-link
             to="/#how-to-use"
+            v-scroll-to="'#how-to-use'"
             class="text-base text-gray-200 hover:text-white"
           >
             كيفية استخدام التوكيدات
@@ -37,6 +39,7 @@
         <div class="px-5 py-2">
           <nuxt-link
             to="/#hero-h1"
+            v-scroll-to="'#hero-h1'"
             class="text-base text-gray-200 hover:text-white"
           >
             حمل التطبيق وابدأ اليوم!

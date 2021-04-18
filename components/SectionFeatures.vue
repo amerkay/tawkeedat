@@ -133,11 +133,11 @@
               fill="url(#ca9667ae-9f92-4be7-abcb-9e3d727f2941)"
             />
           </svg>
-          <img
+          <base-img
             class="relative mx-auto"
             width="320"
             src="/img/iphone-screen-categories.png"
-            alt=""
+            alt="اشحن يومك بالإيجابية معنا"
           />
         </div>
       </div>
@@ -259,11 +259,11 @@
                 fill="url(#e80155a9-dfde-425a-b5ea-1f6fadd20131)"
               />
             </svg>
-            <img
+            <base-img
               class="relative mx-auto"
               width="320"
               src="/img/iphone-screen-notifications.png"
-              alt=""
+              alt="املأ يومك بما هو إيجابي"
             />
           </div>
         </div>

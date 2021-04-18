@@ -6,7 +6,7 @@
       >
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <a href="#">
-            <span class="sr-only">Workflow</span>
+            <span class="sr-only">Tawkeedat</span>
             <logo />
           </a>
         </div>
@@ -38,7 +38,8 @@
         </div>
         <nav class="hidden space-x-10 space-x-reverse md:flex">
           <nuxt-link
-            to="/#what-is-it"
+            :to="{ path: '/', hash: 'what-is-it' }"
+            v-scroll-to="'#what-is-it'"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             ما هي التوكيدات
@@ -46,6 +47,7 @@
 
           <nuxt-link
             to="/#how-to-use"
+            v-scroll-to="'#how-to-use'"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             كيفية استخدام التوكيدات
@@ -53,6 +55,7 @@
 
           <nuxt-link
             to="/#footer"
+            v-scroll-to="'#footer'"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             من نحن
@@ -67,6 +70,7 @@
             </a> -->
           <nuxt-link
             to="/#hero-h1"
+            v-scroll-to="'#hero-h1'"
             class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
           >
             حمل التطبيق وابدأ اليوم!
@@ -127,6 +131,7 @@
             <nav class="grid gap-y-8" @click="isMenuOpen = false">
               <nuxt-link
                 to="/#what-is-it"
+                v-scroll-to="'#what-is-it'"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
@@ -135,6 +140,7 @@
               </nuxt-link>
               <nuxt-link
                 to="/#how-to-use"
+                v-scroll-to="'#how-to-use'"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
@@ -143,6 +149,7 @@
               </nuxt-link>
               <nuxt-link
                 to="/#footer"
+                v-scroll-to="'#footer'"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
@@ -156,6 +163,7 @@
           <div @click="isMenuOpen = false">
             <nuxt-link
               to="/#hero-h1"
+              v-scroll-to="'#hero-h1'"
               class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow-sm hover:bg-blue-600"
             >
               حمل التطبيق وابدأ اليوم!

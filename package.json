@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "core-js": "^3.10.1",
-    "nuxt": "^2.15.4"
+    "nuxt": "^2.15.4",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "@braid/vue-formulate": "^2.5.2",

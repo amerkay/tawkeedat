@@ -18,11 +18,11 @@
       >
         <div>
           <div>
-            <img
+            <base-img
               class="relative mx-auto"
               width="320"
               src="/img/iphone-screen-exercise01.png"
-              alt=""
+              alt="اختر مدة تمرينك على التوكيدات"
             />
           </div>
           <div class="mt-6 text-center">
@@ -35,11 +35,11 @@
 
         <div>
           <div>
-            <img
+            <base-img
               class="relative mx-auto"
               width="320"
               src="/img/iphone-screen-exercise02.png"
-              alt=""
+              alt="٤٥ نوع توكيدات"
             />
           </div>
           <div class="mt-6 text-center">
@@ -53,11 +53,11 @@
 
         <div>
           <div>
-            <img
+            <base-img
               class="relative mx-auto"
               width="320"
               src="/img/iphone-screen-exercise03.png"
-              alt=""
+              alt="كرر"
             />
           </div>
           <div class="mt-6 text-center">
