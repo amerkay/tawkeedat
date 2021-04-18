@@ -1,5 +1,5 @@
 <template>
-  <div class="pb-40 bg-gray-50">
+  <div class="pb-20 md:pb-36 bg-gray-50">
     <main
       class="max-w-5xl px-4 pt-10 mx-auto sm:pt-12 sm:px-6 md:pt-16 lg:pt-20 lg:px-8 xl:pt-28 md:grid md:grid-cols-2 md:gap-10"
     >
@@ -37,11 +37,11 @@
           </div> -->
         </div>
       </div>
-      <div class="md:flex md:justify-end">
+      <div class="mt-20 md:flex md:justify-end md:mt-0">
         <base-img
           src="/img/character-working-7.svg"
           alt="We're working on it. We'll let you know when we're ready!"
-          class="w-full max-w-xs"
+          class="w-2/3 mx-auto md:mx-0 md:w-full md:max-w-xs"
         />
       </div>
     </main>
