@@ -8,14 +8,18 @@
         <blockquote class="mt-6 md:flex-grow md:flex md:flex-col">
           <div class="relative text-lg font-medium text-gray-800 md:flex-grow">
             <svg
-              class="absolute top-0 right-0 w-8 h-8 text-white transform -translate-x-3 -translate-y-2"
-              fill="currentColor"
-              viewBox="0 0 32 32"
               aria-hidden="true"
+              focusable="false"
+              class="absolute top-0 right-0 w-8 h-8 text-white transform translate-x-2 -translate-y-7"
+              fill="currentColor"
+              role="img"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 512 512"
             >
               <path
-                d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"
-              />
+                fill="currentColor"
+                d="M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z"
+              ></path>
             </svg>
             <p class="relative">
               احب ابشرك تلقيت خبر بخصوص عملي صارلي ٤ سنوات انتظره الف الحمد لله!
@@ -46,14 +50,20 @@
         <blockquote class="mt-6 md:flex-grow md:flex md:flex-col">
           <div class="relative text-lg font-medium text-gray-800 md:flex-grow">
             <svg
-              class="absolute top-0 right-0 w-8 h-8 text-white transform -translate-x-3 -translate-y-2"
+              aria-hidden="true"
+              focusable="false"
+              class="absolute top-0 right-0 w-8 h-8 text-white transform translate-x-2 -translate-y-7"
               fill="currentColor"
-              viewBox="0 0 32 32"
+              role="img"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 512 512"
             >
               <path
-                d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"
-              />
+                fill="currentColor"
+                d="M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z"
+              ></path>
             </svg>
+
             <p class="relative">
               اشكررررررررررركم جدا جدا جزاكم الله خير اجمل تطبيق! والله من ثمن
               سنين ماعندي أطفال وفضلت اتمرن على توكيداتكم وسبحان الله اليوم حللت

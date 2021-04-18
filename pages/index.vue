@@ -26,6 +26,7 @@ export default {
         updated_at: '2021-04-18T04:26:51.300Z',
       },
     }
+
     return metaFromCMS(data, this.$route.path, this.$route.query)
   },
 }
