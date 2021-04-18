@@ -26,7 +26,14 @@
           <p class="text-base font-medium text-gray-900">
             أدخل بريدك الإلكتروني فعّل أهدافك الآن
           </p>
-          <form action="#" method="POST" class="mt-3 sm:flex">
+          <form
+            name="subscribe"
+            action="/thank-you"
+            method="POST"
+            class="mt-3 sm:flex"
+            data-netlify="true"
+          >
+            <input type="hidden" name="form-name" value="subscribe" />
             <FormulateInput
               type="email"
               name="email"
