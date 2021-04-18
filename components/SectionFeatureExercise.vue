@@ -2,12 +2,12 @@
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div id="how-to-use" class="bg-gray-700">
     <div
-      class="max-w-4xl px-4 py-16 mx-auto sm:px-6 sm:pt-20 sm:pb-24 lg:max-w-7xl lg:pt-24 lg:px-8"
+      class="max-w-4xl px-4 py-16 mx-auto md:text-center sm:px-6 sm:pt-20 sm:pb-24 lg:max-w-7xl lg:pt-24 lg:px-8"
     >
       <h2 class="text-3xl font-extrabold tracking-tight text-white">
         مارس تمارين التوكيدات يوميًا
       </h2>
-      <p class="max-w-3xl mt-4 text-lg text-gray-200">
+      <p class="max-w-3xl mt-4 text-lg text-gray-200 md:mx-auto">
         اختر من مئات أنواع التوكيدات التي تريد التركيز عليها وابدأ التمرين!
         لأفضل النتائج يجب ممارسة التوكيدات على الأقل مرتين أو ثلاثة في اليوم،
         وكل مرة لا تقل عن ٣-٥ دقائق. التكرار والاستشعار أساسيين عند التمرين
