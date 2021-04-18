@@ -13,7 +13,22 @@
 </template>
 
 <script>
-export default {}
+import { metaFromCMS } from '@/utils/utils-meta'
+
+export default {
+  head() {
+    const data = {
+      metaData: {
+        title: 'تطبيق توكيدات – اشحن يومك بالإيجابية معنا',
+        description:
+          'استخدم التوكيدات لتفعيل قانون الجذب لصالحك فورًا. تجاوز الأفكار السلبية. فكّر بإيجابية. حقّق أحلامك، توكيدات معك في كل خطوة، وكل يوم.',
+        published_at: '2021-04-18T04:26:51.300Z',
+        updated_at: '2021-04-18T04:26:51.300Z',
+      },
+    }
+    return metaFromCMS(data, this.$route.path, this.$route.query)
+  },
+}
 </script>
 
 <style>
