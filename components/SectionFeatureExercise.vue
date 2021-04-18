@@ -8,10 +8,9 @@
         مارس تمارين التوكيدات يوميًا
       </h2>
       <p class="max-w-3xl mt-4 text-lg text-gray-200 md:mx-auto">
-        اختر من مئات أنواع التوكيدات التي تريد التركيز عليها وابدأ التمرين!
-        لأفضل النتائج يجب ممارسة التوكيدات على الأقل مرتين أو ثلاثة في اليوم،
-        وكل مرة لا تقل عن ٣-٥ دقائق. التكرار والاستشعار أساسيين عند التمرين
-        اليومي.
+        تتطلب التوكيدات ممارسة يومية منتظمة وتكرار مستمر واستشعار لتحقيق نتائج
+        فعالة. اختر من مئات التوكيدات في أي ناحية من نواحي حياتك التي تود
+        التركيز عليها وتمرن على الأقل مرتين أو ٣ في اليوم.
       </p>
       <div
         class="grid grid-cols-1 mt-12 gap-x-6 gap-y-12 sm:grid-cols-2 lg:mt-16 lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16"
@@ -26,7 +25,7 @@
             />
           </div>
           <div class="mt-6 text-center">
-            <h3 class="text-lg font-medium text-white">اختر مدة تمرينك</h3>
+            <h3 class="text-lg font-medium text-white">مدة التمرين</h3>
             <p class="mt-2 text-base text-gray-200">
               اختر مدة تمرينك على التوكيدات
             </p>
@@ -43,7 +42,7 @@
             />
           </div>
           <div class="mt-6 text-center">
-            <h3 class="text-lg font-medium text-white">٤٥ نوع توكيدات</h3>
+            <h3 class="text-lg font-medium text-white">تصنيفات التوكيدات</h3>
             <p class="mt-2 text-base text-gray-200">
               اختر من بين أكثر من ٤٥ نوع توكيدات لتمارس تمرينك بدقة تامة لتحقيق
               هدفك
@@ -61,7 +60,7 @@
             />
           </div>
           <div class="mt-6 text-center">
-            <h3 class="text-lg font-medium text-white">كرر</h3>
+            <h3 class="text-lg font-medium text-white">تمرّن واستشعر</h3>
             <p class="mt-2 text-base text-gray-200">
               كرر كل توكيد يظهر لك على الشاشة مع استشعاره تماماً
             </p>

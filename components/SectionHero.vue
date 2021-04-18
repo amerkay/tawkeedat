@@ -18,7 +18,7 @@
           class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
         >
           استخدم التوكيدات لتفعيل قانون الجذب لصالحك فورًا. تجاوز الأفكار
-          السلبية. فكّر بإيجابية. حقّق أحلامك، توكيدات معك في كل خطوة، وكل يوم.
+          السلبية. فكّر بإيجابية. حقّق أحلامك.
         </p>
         <div
           class="mt-8 sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
@@ -53,7 +53,7 @@
                 type="submit"
                 class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mr-3 sm:mt-0 sm:items-center sm:w-auto"
               >
-                اشترك ب ٢،٩٩ دولار شهرياً فقط
+                حمل التطبيق ب 2.99$/ش فقط
               </button>
             </div>
           </form>
