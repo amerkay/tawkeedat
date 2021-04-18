@@ -135,6 +135,7 @@
           <base-img
             class="relative mx-auto"
             width="320"
+            height="636"
             src="/img/iphone-screen-categories.png"
             alt="اشحن يومك بالإيجابية معنا"
           />
@@ -276,6 +277,7 @@
             <base-img
               class="relative mx-auto"
               width="320"
+              height="636"
               src="/img/iphone-screen-notifications.png"
               alt="املأ يومك بما هو إيجابي"
             />

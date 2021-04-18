@@ -104,6 +104,5 @@ module.exports = {
     'plugins/**/*.js',
     'utils/**/*.js',
     'nuxt.config.js',
-    'formulate.config.js',
   ],
 }

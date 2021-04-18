@@ -27,26 +27,21 @@
             أدخل بريدك الإلكتروني فعّل أهدافك الآن
           </p>
           <form
+            class="mt-3 sm:flex"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
             name="subscribe"
             action="/thank-you"
             method="POST"
-            class="mt-3 sm:flex"
-            data-netlify="true"
           >
             <input type="hidden" name="form-name" value="subscribe" />
-            <FormulateInput
+            <input
               type="email"
               name="email"
               id="email"
-              label="Email"
-              validation="required|email"
+              required="required"
               placeholder="البريد الإلكتروني"
-              :input-class="['py-3']"
-              class="sm:w-1/2"
-              :validation-messages="{
-                required: 'الرجاء إدخال بريد إلكتروني صحيح',
-                email: 'الرجاء إدخال بريد إلكتروني صحيح',
-              }"
+              class="w-full py-3 border-gray-300 rounded-md shadow-sm sm:w-1/2 sm:text-sm focus:ring-blue-500 focus:border-blue-500"
             />
             <div>
               <button
@@ -72,6 +67,8 @@
           <base-img
             class="object-contain w-full"
             src="/img/iphone-screen-home.png"
+            width="320"
+            height="636"
             alt="استخدم التوكيدات لتفعيل قانون الجذب لصالحك فورًا"
           />
         </div>

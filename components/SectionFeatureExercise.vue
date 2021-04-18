@@ -20,6 +20,7 @@
             <base-img
               class="relative mx-auto"
               width="320"
+              height="636"
               src="/img/iphone-screen-exercise01.png"
               alt="اختر مدة تمرينك على التوكيدات"
             />
@@ -37,6 +38,7 @@
             <base-img
               class="relative mx-auto"
               width="320"
+              height="636"
               src="/img/iphone-screen-exercise02.png"
               alt="٤٥ نوع توكيدات"
             />
@@ -55,6 +57,7 @@
             <base-img
               class="relative mx-auto"
               width="320"
+              height="636"
               src="/img/iphone-screen-exercise03.png"
               alt="كرر"
             />

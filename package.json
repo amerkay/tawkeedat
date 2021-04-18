@@ -16,7 +16,6 @@
     "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
-    "@braid/vue-formulate": "^2.5.2",
     "@nuxtjs/stylelint-module": "^4.0.0",
     "@nuxtjs/svg": "^0.1.12",
     "@nuxtjs/tailwindcss": "^4.0.3",

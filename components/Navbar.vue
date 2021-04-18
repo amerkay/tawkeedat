@@ -53,13 +53,12 @@
             كيفية استخدام التوكيدات
           </nuxt-link>
 
-          <nuxt-link
-            to="/#footer"
+          <button
             v-scroll-to="'#footer'"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
             من نحن
-          </nuxt-link>
+          </button>
         </nav>
         <div class="items-center justify-end hidden md:flex md:flex-1 lg:w-0">
           <!-- <a
@@ -147,15 +146,14 @@
                   كيفية استخدام التوكيدات
                 </span>
               </nuxt-link>
-              <nuxt-link
-                to="/#footer"
+              <button
                 v-scroll-to="'#footer'"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
               >
                 <span class="mr-3 text-base font-medium text-gray-900">
                   من نحن
                 </span>
-              </nuxt-link>
+              </button>
             </nav>
           </div>
         </div>

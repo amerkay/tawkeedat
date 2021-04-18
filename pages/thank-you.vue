@@ -1,7 +1,7 @@
 <template>
   <div class="pb-20 md:pb-36 bg-gray-50">
     <main
-      class="max-w-5xl px-4 pt-10 mx-auto sm:pt-12 sm:px-6 md:pt-16 lg:pt-20 lg:px-8 xl:pt-28 md:grid md:grid-cols-2 md:gap-10"
+      class="max-w-6xl px-4 pt-10 mx-auto sm:pt-12 sm:px-6 md:pt-16 lg:pt-20 lg:px-8 xl:pt-28 md:grid md:grid-cols-2"
     >
       <div class="sm:text-center lg:text-right">
         <h1
