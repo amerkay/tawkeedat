@@ -5,10 +5,10 @@
         class="flex items-center justify-between py-6 md:justify-start md:space-x-10 md:space-x-reverse"
       >
         <div class="flex justify-start lg:w-0 lg:flex-1">
-          <a href="#">
+          <nuxt-link to="/">
             <span class="sr-only">Tawkeedat</span>
             <logo />
-          </a>
+          </nuxt-link>
         </div>
         <div class="-my-2 -mr-2 md:hidden">
           <button
