@@ -49,9 +49,21 @@
 </template>
 
 <script>
-import BaseImg from '~/components/BaseImg.vue'
+import { metaFromCMS } from '@/utils/utils-meta'
+
 export default {
-  components: { BaseImg },
+  head() {
+    const data = {
+      metaData: {
+        title: 'تطبيق توكيدات – شكرا لك',
+        description: 'شكرا لك',
+        published_at: '2021-04-18T04:26:51.300Z',
+        updated_at: '2021-04-18T04:26:51.300Z',
+      },
+    }
+
+    return metaFromCMS(data, this.$route.path, this.$route.query)
+  },
 }
 </script>
 
