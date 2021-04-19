@@ -12,7 +12,7 @@ exports.handler = async function instagram(event, context, callback) {
   // https://developers.facebook.com/docs/instagram-api/reference/ig-media
   const fields =
     'id,caption,media_url,permalink,comments_count,like_count,timestamp'
-  const limit = 3
+  const limit = 9
   const media_type = 'IMAGE'
   const url = `${endpoint}/${userId}/media/?fields=${fields}&access_token=${token}&limit=${limit}&media_type=${media_type}`
 

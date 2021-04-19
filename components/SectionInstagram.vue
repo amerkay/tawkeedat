@@ -21,12 +21,12 @@
       </div>
 
       <div
-        class="grid gap-5 px-5 mx-auto auto-rows-max lg:grid-cols-3 lg:gap-10 lg:max-w-6xl"
+        class="grid grid-cols-3 gap-0 mx-auto auto-rows-max lg:grid-cols-3 lg:gap-4 lg:max-w-4xl"
       >
         <div
           v-for="post in postsData"
           :key="post.id"
-          class="flex flex-col overflow-hidden rounded-sm shadow-md"
+          class="flex flex-col overflow-hidden sm:rounded-sm sm:shadow-md"
         >
           <div class="flex-shrink-0">
             <base-img
@@ -37,13 +37,13 @@
               :alt="post.caption"
             />
           </div>
-          <div class="flex flex-col justify-between flex-1 p-5 bg-white">
+          <!-- <div class="flex flex-col justify-between flex-1 p-5 bg-white">
             <div class="flex-1">
-              <p class="text-base font-light text-gray-500">
+              <p class="text-sm font-light text-gray-500">
                 {{ post.caption | truncate(100) }}
               </p>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
