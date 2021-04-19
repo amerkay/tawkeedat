@@ -2,11 +2,11 @@
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="bg-white">
     <div class="max-w-6xl py-16 mx-auto lg:py-24" v-if="postsData.length > 0">
-      <div class="pb-10 lg:pb-16">
+      <div class="px-5 pb-10 lg:pb-16">
         <h2
           class="text-3xl leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
         >
-          <span class="font-extrabold"> People love us on Instagram!</span>
+          <span class="font-extrabold">صفحتنا تكبر على الانستغرام</span>
         </h2>
         <p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-500">
           انضم لعائلتنا على
