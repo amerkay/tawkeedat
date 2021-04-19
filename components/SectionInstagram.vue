@@ -1,7 +1,7 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="bg-white">
-    <div class="py-16 mx-auto max-w-7xl lg:py-24" v-if="postsData.length > 0">
+    <div class="max-w-6xl py-16 mx-auto lg:py-24" v-if="postsData.length > 0">
       <div class="pb-10 lg:pb-16">
         <h2
           class="text-3xl leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
@@ -9,17 +9,18 @@
           <span class="font-extrabold"> People love us on Instagram!</span>
         </h2>
         <p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-500">
-          More than 70,000 users follw our daily affirmations on
+          More than 70,000 users follw our daily affirmations on Instagram
           <a
             href="https://www.instagram.com/arabicaffirmations/"
             target="_blank"
-            >Instagram @arabicaffirmations</a
+          >
+            @arabicaffirmations </a
           >.
         </p>
       </div>
 
       <div
-        class="grid max-w-lg gap-5 mx-auto auto-rows-max lg:grid-cols-3 lg:gap-10 lg:max-w-6xl"
+        class="grid gap-5 px-5 mx-auto auto-rows-max lg:grid-cols-3 lg:gap-10 lg:max-w-6xl"
       >
         <div
           v-for="post in postsData"
