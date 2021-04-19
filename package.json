@@ -15,7 +15,8 @@
     "axios": "^0.21.1",
     "core-js": "^3.10.1",
     "nuxt": "^2.15.4",
-    "vue-scrollto": "^2.20.0"
+    "vue-scrollto": "^2.20.0",
+    "vue-truncate-filter": "^1.1.7"
   },
   "devDependencies": {
     "@nuxtjs/stylelint-module": "^4.0.0",

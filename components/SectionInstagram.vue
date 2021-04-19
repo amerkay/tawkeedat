@@ -9,13 +9,14 @@
           <span class="font-extrabold"> People love us on Instagram!</span>
         </h2>
         <p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-500">
-          More than 70,000 users follw our daily affirmations on Instagram
+          انضم لعائلتنا على
           <a
             href="https://www.instagram.com/arabicaffirmations/"
             target="_blank"
           >
-            @arabicaffirmations </a
-          >.
+            الانستغرام
+          </a>
+          والتي تتجاوز ال 70,000 متابع وتمتع بتوكيدات وتذكيرات يومية!
         </p>
       </div>
 
@@ -39,7 +40,7 @@
           <div class="flex flex-col justify-between flex-1 p-5 bg-white">
             <div class="flex-1">
               <p class="text-base font-light text-gray-500">
-                {{ post.caption }}
+                {{ post.caption | truncate(100) }}
               </p>
             </div>
           </div>
