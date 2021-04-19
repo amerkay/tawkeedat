@@ -28,7 +28,13 @@
           class="flex flex-col overflow-hidden rounded-sm shadow-md"
         >
           <div class="flex-shrink-0">
-            <base-img class="w-full" :src="post.url" :alt="post.caption" />
+            <base-img
+              class="w-full"
+              width="344"
+              height="344"
+              :src="post.url"
+              :alt="post.caption"
+            />
           </div>
           <div class="flex flex-col justify-between flex-1 p-5 bg-white">
             <div class="flex-1">
