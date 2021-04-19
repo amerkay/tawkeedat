@@ -21,7 +21,7 @@
       </div>
 
       <div
-        class="grid grid-cols-3 gap-0 mx-auto auto-rows-max lg:grid-cols-3 lg:gap-4 lg:max-w-4xl"
+        class="grid grid-cols-3 gap-0 mx-auto auto-rows-max lg:grid-cols-3 lg:gap-4 lg:max-w-3xl"
       >
         <div
           v-for="post in postsData"
