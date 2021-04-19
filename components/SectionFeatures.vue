@@ -2,40 +2,6 @@
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div id="what-is-it" class="py-16 overflow-hidden bg-gray-50 lg:py-24">
     <div class="relative max-w-xl px-4 mx-auto sm:px-6 lg:px-8 lg:max-w-7xl">
-      <svg
-        class="absolute hidden transform -translate-x-1/2 lg:block right-full -translate-y-1/4"
-        width="404"
-        height="784"
-        fill="none"
-        viewBox="0 0 404 784"
-        aria-hidden="true"
-      >
-        <defs>
-          <pattern
-            id="b1e6e422-73f8-40a6-b5d9-c8586e37e0e7"
-            x="0"
-            y="0"
-            width="20"
-            height="20"
-            patternUnits="userSpaceOnUse"
-          >
-            <rect
-              x="0"
-              y="0"
-              width="4"
-              height="4"
-              class="text-gray-200"
-              fill="currentColor"
-            />
-          </pattern>
-        </defs>
-        <rect
-          width="404"
-          height="784"
-          fill="url(#b1e6e422-73f8-40a6-b5d9-c8586e37e0e7)"
-        />
-      </svg>
-
       <div class="relative">
         <h2
           class="text-3xl leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"

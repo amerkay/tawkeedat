@@ -6,7 +6,7 @@
     <call-to-action class="relative z-30" />
     <section-features />
     <section-feature-exercise />
-
+    <section-instagram />
     <section-testimonial />
     <call-to-action />
   </div>

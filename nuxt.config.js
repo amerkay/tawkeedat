@@ -45,7 +45,14 @@ export default {
     'nuxt-webfontloader',
     // Doc: https://github.com/rigor789/vue-scrollto
     'vue-scrollto/nuxt',
+    // Doc https://axios.nuxtjs.org/setup
+    '@nuxtjs/axios',
   ],
+
+  // Axios module configuration: https://go.nuxtjs.dev/config-axios
+  axios: {
+    baseURL: process.env.URL,
+  },
 
   webfontloader: {
     google: {
