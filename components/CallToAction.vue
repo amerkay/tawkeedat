@@ -18,7 +18,7 @@
       <nuxt-link
         to="/#hero-h1"
         v-scroll-to="'#hero-h1'"
-        class="inline-flex items-center justify-center w-full px-5 py-3 mt-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md hover:bg-gray-600 sm:w-auto"
+        class="inline-flex items-center justify-center w-full px-5 py-3 mt-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md hover:bg-gray-800 hover:text-white sm:w-auto"
       >
         حمل التطبيق ب 2.99$/ش فقط
       </nuxt-link>

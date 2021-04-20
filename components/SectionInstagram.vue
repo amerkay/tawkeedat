@@ -25,7 +25,7 @@
         <div
           v-for="post in postsData"
           :key="post.id"
-          class="flex flex-col overflow-hidden sm:rounded-sm sm:shadow-md"
+          class="flex flex-col overflow-hidden md:rounded-sm md:shadow-md"
         >
           <div class="flex-shrink-0">
             <base-img
