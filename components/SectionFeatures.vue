@@ -66,38 +66,6 @@
         </div>
 
         <div class="relative mt-10 -mx-4 lg:mt-0" aria-hidden="true">
-          <svg
-            class="absolute transform -translate-x-1/2 translate-y-16 right-1/2 lg:hidden"
-            width="784"
-            height="404"
-            fill="none"
-            viewBox="0 0 784 404"
-          >
-            <defs>
-              <pattern
-                id="ca9667ae-9f92-4be7-abcb-9e3d727f2941"
-                x="0"
-                y="0"
-                width="20"
-                height="20"
-                patternUnits="userSpaceOnUse"
-              >
-                <rect
-                  x="0"
-                  y="0"
-                  width="4"
-                  height="4"
-                  class="text-gray-200"
-                  fill="currentColor"
-                />
-              </pattern>
-            </defs>
-            <rect
-              width="784"
-              height="404"
-              fill="url(#ca9667ae-9f92-4be7-abcb-9e3d727f2941)"
-            />
-          </svg>
           <base-img
             class="relative mx-auto"
             width="320"
