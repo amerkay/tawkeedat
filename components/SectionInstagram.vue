@@ -6,17 +6,16 @@
         <h2
           class="text-3xl leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
         >
-          <span class="font-extrabold">صفحتنا تكبر على الانستغرام</span>
+          <span class="font-extrabold">توكيدات من القلب</span>
         </h2>
         <p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-500">
-          انضم لعائلتنا على
+          ننشر الإيجابية لأكثر من 70,000 متابع على
           <a
             href="https://www.instagram.com/arabicaffirmations/"
             target="_blank"
           >
             الانستغرام
           </a>
-          والتي تتجاوز ال 70,000 متابع وتمتع بتوكيدات وتذكيرات يومية!
         </p>
       </div>
 
