@@ -47,7 +47,21 @@ export default {
     'vue-scrollto/nuxt',
     // Doc https://axios.nuxtjs.org/setup
     '@nuxtjs/axios',
+    // Doc https://github.com/nuxt-community/google-gtag-module
+    '@nuxtjs/google-gtag',
   ],
+
+  // Doc https://github.com/nuxt-community/google-gtag-module
+  'google-gtag': {
+    id: 'G-FXLHGJ55G7',
+    config: {
+      anonymize_ip: true, // anonymize IP
+      send_page_view: false, // might be necessary to avoid duplicated page track on page reload
+      linker: {
+        domains: ['tawkeedat.com'],
+      },
+    },
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
