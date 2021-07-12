@@ -2,53 +2,57 @@
   <main class="px-4 pt-16 pb-16 mx-auto max-w-7xl sm:pt-24 sm:px-6">
     <div class="lg:grid lg:grid-cols-12 lg:gap-8">
       <div
-        class="sm:text-center md:max-w-2xl md:mx-auto lg:mx-0 lg:col-span-8 lg:text-right"
+        class=" sm:text-center md:max-w-2xl md:mx-auto lg:mx-0 lg:col-span-8 lg:text-right"
       >
         <h1 id="hero-h1">
           <span
             class="block mt-1 text-4xl font-extrabold sm:text-5xl xl:text-6xl"
           >
-            <span class="block leading-snug text-gray-900">حقق أحلامك </span>
-            <span class="block leading-normal text-orange-500"
-              >بدءاً من اليوم!</span
+            <span class="block leading-snug text-gray-900">حقق أحلامك مع</span>
+            <span class="block leading-normal text-orange-500">
+              تطبيق توكيدات!</span
             >
           </span>
         </h1>
         <p
-          class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
+          class="mt-3 text-base text-gray-500  sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
         >
           استخدم التوكيدات لتفعيل قانون الجذب لصالحك فورًا. تجاوز الأفكار
           السلبية. فكّر بإيجابية. حقّق أحلامك.
         </p>
+
+        <p class="pt-12 mt-12 text-xl font-bold border-t border-gray-300">
+          انضم للائحة الانتظار واحصل على خصم 50% عند إطلاق التطبيق
+        </p>
         <div
-          class="mt-8 sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
+          class="mt-8  sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
         >
           <p class="text-base font-medium text-gray-900">
-            أدخل بريدك الإلكتروني فعّل أهدافك الآن
+            كن من أول 100 شخص يحصل على الخصم وأدخل بريدك الإلكتروني الآن
           </p>
           <form
-            class="mt-3 sm:flex"
+            class="mt-4 sm:flex"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
-            name="subscribe"
+            name="waiting-list"
             action="/thank-you"
             method="POST"
           >
-            <input type="hidden" name="form-name" value="subscribe" />
+            <input type="hidden" name="form-name" value="waiting-list" />
             <input
               type="email"
               name="email"
               id="email"
               required="required"
               placeholder="البريد الإلكتروني"
-              class="w-full py-3 border-gray-300 rounded-md shadow-sm sm:w-1/2 sm:text-sm focus:ring-blue-500 focus:border-blue-500"
+              class="w-full py-3 border-gray-700 rounded-md shadow-sm  sm:text-lg sm:w-1/2 focus:ring-blue-500 focus:border-blue-500"
             />
             <div>
               <button
                 type="submit"
-                class="w-full px-6 py-3 mt-3 text-base font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mr-3 sm:mt-0 sm:items-center sm:w-auto"
+                class="w-full px-6 py-4 mt-3 font-medium text-white bg-orange-500 border border-transparent rounded-md shadow-sm  sm:text-lg hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:mr-3 sm:mt-0 sm:items-center sm:w-auto"
               >
-                حمل التطبيق ب 2.99$/ش فقط
+                انضم للائحة الانتظار
               </button>
             </div>
           </form>
@@ -61,7 +65,7 @@
         </div>
       </div>
       <div
-        class="relative mt-12 sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-4 lg:flex lg:items-center"
+        class="relative mt-12  sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-4 lg:flex lg:items-center"
       >
         <div class="relative w-full max-w-xs mx-auto">
           <base-img

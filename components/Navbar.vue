@@ -2,7 +2,7 @@
   <nav class="relative z-10 bg-white shadow">
     <div class="px-4 mx-auto max-w-7xl sm:px-6">
       <div
-        class="flex items-center justify-between py-6 md:justify-start md:space-x-10 md:space-x-reverse"
+        class="flex items-center justify-between py-6  md:justify-start md:space-x-10 md:space-x-reverse"
       >
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <nuxt-link to="/">
@@ -14,7 +14,7 @@
           <button
             @click="isMenuOpen = true"
             type="button"
-            class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
+            class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md  hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
             aria-expanded="false"
           >
             <span class="sr-only">Open menu</span>
@@ -70,9 +70,9 @@
           <nuxt-link
             to="/#hero-h1"
             v-scroll-to="'#hero-h1'"
-            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow whitespace-nowrap hover:bg-blue-600"
+            class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow  whitespace-nowrap hover:bg-blue-600 hover:text-white"
           >
-            حمل التطبيق وابدأ اليوم!
+            50% خصم لأول 100 مشترك
           </nuxt-link>
         </div>
       </div>
@@ -90,10 +90,10 @@
     -->
     <div
       v-show="isMenuOpen"
-      class="absolute inset-x-0 top-0 z-10 p-2 transition origin-top-left transform md:hidden"
+      class="absolute inset-x-0 top-0 z-10 p-2 transition origin-top-left transform  md:hidden"
     >
       <div
-        class="bg-white divide-y-2 rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 divide-gray-50"
+        class="bg-white divide-y-2 rounded-lg shadow-lg  ring-1 ring-black ring-opacity-5 divide-gray-50"
       >
         <div class="px-5 pt-5 pb-6">
           <div class="flex items-center justify-between">
@@ -104,7 +104,7 @@
               <button
                 @click="isMenuOpen = false"
                 type="button"
-                class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
+                class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md  hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
               >
                 <span class="sr-only">Close menu</span>
                 <!-- Heroicon name: outline/x -->
@@ -162,9 +162,9 @@
             <nuxt-link
               to="/#hero-h1"
               v-scroll-to="'#hero-h1'"
-              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow-sm hover:bg-blue-600"
+              class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow-sm  hover:bg-blue-600"
             >
-              حمل التطبيق وابدأ اليوم!
+              50% خصم لأول 100 مشترك
             </nuxt-link>
           </div>
         </div>
