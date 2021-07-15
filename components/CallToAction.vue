@@ -6,7 +6,7 @@
     >
       <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
         <span class="leading-normal text-gray-800 lg:block">
-          كن من أول 100 شخص على لائحة الانتظار
+          كن من أول 200 شخص على لائحة الانتظار
         </span>
         <span class="leading-normal lg:block">
           واحصل على خصم 50% عند إطلاق التطبيق</span
