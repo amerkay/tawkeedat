@@ -28,7 +28,7 @@
           class="mt-8  sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
         >
           <p class="text-base font-medium text-gray-900">
-            كن من أول 100 شخص يحصل على الخصم وأدخل بريدك الإلكتروني الآن
+            كن من أول 200 شخص يحصل على الخصم وأدخل بريدك الإلكتروني الآن
           </p>
           <form
             class="mt-4 sm:flex"
