@@ -22,13 +22,13 @@
         </p>
 
         <p class="pt-12 mt-12 text-xl font-bold border-t border-gray-300">
-          انضم للائحة الانتظار واحصل على خصم 50% عند إطلاق التطبيق
+          كن أول الحاصلين على تطبيق توكيدات
         </p>
         <div
           class="mt-8  sm:max-w-2xl sm:mx-auto sm:text-center lg:text-right lg:mx-0"
         >
           <p class="text-base font-medium text-gray-900">
-            كن من أول 200 شخص يحصل على الخصم وأدخل بريدك الإلكتروني الآن
+            أضف بريدك الإلكتروني وانضم للائحة الانتظار
           </p>
           <form
             class="mt-4 sm:flex"

@@ -7,18 +7,17 @@
         <h1
           class="text-3xl font-extrabold tracking-tight text-gray-900  sm:text-4xl md:text-5xl"
         >
-          مبروك حصلت على خصم 50% لتطبيق توكيدات.
+          يسعدنا انضمامك لعائلة توكيدات.
         </h1>
         <h2
           class="mt-3 text-3xl font-extrabold tracking-tight text-orange-600  sm:mt-8 sm:text-4xl md:text-5xl"
         >
-          يسعدنا انضمامك لعائلة توكيدات.
+          شكراً جزيلاً من القلب.
         </h2>
         <p
-          class="mt-10 text-base text-gray-500  sm:text-lg sm:max-w-xl sm:mx-auto md:mt-12 md:text-xl lg:mx-0"
+          class="mt-10 text-lg text-gray-500  sm:text-lg sm:max-w-xl sm:mx-auto md:mt-12 md:text-2xl lg:mx-0"
         >
-          سيتم إرسال بريد إلكتروني لك فور انطلاق التطبيق لشرائه وتحميله مع خصم
-          ال 50%
+          سيتم إرسال بريد إلكتروني لك فور انطلاق التطبيق لشرائه وتحميله.
         </p>
         <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <!-- <div class="rounded-md shadow md:w-72">

@@ -72,7 +72,7 @@
             v-scroll-to="'#hero-h1'"
             class="inline-flex items-center justify-center px-4 py-2 mr-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow  whitespace-nowrap hover:bg-blue-600 hover:text-white"
           >
-            50% خصم لأول 200 مشترك
+            كن أول الحاصلين على التطبيق
           </nuxt-link>
         </div>
       </div>
@@ -164,7 +164,7 @@
               v-scroll-to="'#hero-h1'"
               class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md shadow-sm  hover:bg-blue-600"
             >
-              50% خصم لأول 200 مشترك
+              كن أول الحاصلين على التطبيق
             </nuxt-link>
           </div>
         </div>

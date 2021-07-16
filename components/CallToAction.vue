@@ -6,11 +6,11 @@
     >
       <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
         <span class="leading-normal text-gray-800 lg:block">
-          كن من أول 200 شخص على لائحة الانتظار
+          فعّل التفكير الإيجابي في اللاوعي واجذب
         </span>
-        <span class="leading-normal lg:block">
-          واحصل على خصم 50% عند إطلاق التطبيق</span
-        >
+        <span class="leading-normal lg:block"
+          >حياة أفضل نفسيًا، معنويًا وماديًا
+        </span>
       </h2>
       <!-- <p class="mt-4 text-lg leading-6 text-orange-50">
         ب 2.99$ دولار شهريًا أو احصل على تخفيض رائع واشترك ب 25.99$ دولار سنويًا
@@ -20,8 +20,7 @@
         v-scroll-to="'#hero-h1'"
         class="inline-flex items-center justify-center w-full px-5 py-3 mt-8 text-base font-medium text-white bg-gray-700 border border-transparent rounded-md  hover:bg-gray-800 hover:text-white sm:w-auto"
       >
-        احصل عليه ب 1.99$/ش بدل
-        <span class="mx-1 line-through opacity-80">3.99$/ش</span>
+        كن أول الحاصلين على التطبيق
       </nuxt-link>
     </div>
   </div>
