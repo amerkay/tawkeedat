@@ -34,11 +34,15 @@
             class="mt-4 sm:flex"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
-            name="waiting-list"
+            name="waiting-list-no-offer"
             action="/thank-you"
             method="POST"
           >
-            <input type="hidden" name="form-name" value="waiting-list" />
+            <input
+              type="hidden"
+              name="form-name"
+              value="waiting-list-no-offer"
+            />
             <input
               type="email"
               name="email"
