@@ -50,7 +50,15 @@
             v-scroll-to="'#how-to-use'"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
-            كيفية استخدام التوكيدات
+            كيفية الاستخدام
+          </nuxt-link>
+
+          <nuxt-link
+            :to="{ path: '/', hash: 'pricing' }"
+            v-scroll-to="'#pricing'"
+            class="text-base font-medium text-gray-500 hover:text-gray-900"
+          >
+            سعر الاشتراك
           </nuxt-link>
 
           <button
@@ -137,6 +145,7 @@
                   ما هي التوكيدات
                 </span>
               </nuxt-link>
+
               <nuxt-link
                 to="/#how-to-use"
                 v-scroll-to="'#how-to-use'"
@@ -146,6 +155,17 @@
                   كيفية استخدام التوكيدات
                 </span>
               </nuxt-link>
+
+              <nuxt-link
+                :to="{ path: '/', hash: 'pricing' }"
+                v-scroll-to="'#pricing'"
+                class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
+              >
+                <span class="mr-3 text-base font-medium text-gray-900">
+                  سعر الاشتراك
+                </span>
+              </nuxt-link>
+
               <button
                 v-scroll-to="'#footer'"
                 class="flex items-center p-3 -m-3 rounded-md hover:bg-gray-50"
