@@ -1,15 +1,15 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="bg-white">
-    <div class="max-w-6xl py-16 mx-auto lg:py-24" v-if="postsData.length > 0">
+    <div class="py-16 mx-auto max-w-6xl lg:py-24" v-if="postsData.length > 0">
       <div class="px-5 pb-10 lg:pb-16">
         <h2
-          class="text-3xl leading-8 tracking-tight text-center text-gray-900  sm:text-4xl"
+          class="text-3xl tracking-tight leading-8 text-center text-gray-900  sm:text-4xl"
         >
           <span class="font-extrabold">توكيدات من القلب</span>
         </h2>
-        <p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-500">
-          ننشر الإيجابية لأكثر من <strong>80,000</strong> متابع على
+        <p class="mx-auto mt-4 max-w-3xl text-xl text-center text-gray-500">
+          ننشر الإيجابية لأكثر من <strong>100,000</strong> متابع على
           <a
             href="https://www.instagram.com/arabicaffirmations/"
             target="_blank"
@@ -20,12 +20,12 @@
       </div>
 
       <div
-        class="grid grid-cols-3 gap-0 mx-auto  auto-rows-max lg:grid-cols-3 lg:gap-4 lg:max-w-3xl"
+        class="grid grid-cols-3 auto-rows-max gap-0 mx-auto  lg:grid-cols-3 lg:gap-4 lg:max-w-3xl"
       >
         <div
           v-for="post in postsData"
           :key="post.id"
-          class="flex flex-col overflow-hidden md:rounded-sm md:shadow-md"
+          class="flex overflow-hidden flex-col md:rounded-sm md:shadow-md"
         >
           <div class="flex-shrink-0">
             <base-img
@@ -36,7 +36,7 @@
               :alt="post.caption"
             />
           </div>
-          <!-- <div class="flex flex-col justify-between flex-1 p-5 bg-white">
+          <!-- <div class="flex flex-col flex-1 justify-between p-5 bg-white">
             <div class="flex-1">
               <p class="text-sm font-light text-gray-500">
                 {{ post.caption | truncate(100) }}
